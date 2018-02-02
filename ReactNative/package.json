@@ -9,8 +9,8 @@
 	"dependencies": {
 		"firebase": "^4.6.2",
 		"moment": "^2.20.1",
-		"react": "16.0.0",
-		"react-native": "0.50.3",
+		"react": "16.2.0",
+		"react-native": "0.52.2",
 		"react-native-audio-player-recorder": "2.0.0",
 		"react-native-aws3": "0.0.8",
 		"react-native-device-info": "^0.13.0",
